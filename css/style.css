@@ -29,7 +29,13 @@ header {
   z-index: 2;
 }
 
-/* PAGE CONTACTO  --- NO LA TRABAJE PARA ESTA ENTREGA*/
+.h1___subtitulos {
+  font-weight: 200;
+  letter-spacing: 2px;
+  margin: 2rem 0 1rem 4rem;
+}
+
+/* PAGE CONTACTO */
 
 .contenedores {
   display: flex;
