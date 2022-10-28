@@ -29,6 +29,13 @@ header {
   z-index: 2;
 }
 
+.navbar-toggler {
+  background-color: rgb(188, 181, 181);
+  margin-right: 50%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
 .h1___subtitulos {
   font-weight: 200;
   letter-spacing: 2px;
